@@ -1,0 +1,22 @@
+{
+  "name": "com.nosuchstudio.versiondefinestest",
+  "displayName": "Assembly Definition Version Defines in Package",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Version defines in an assembly definition in side a package don't seem to work. This is the proof.",
+  "keywords": [
+    "assembly definition",
+	"assembly definitions",
+	"version defines",
+	"version define",
+  ],
+  "author": {
+    "name": "hk1ll3r",
+    "email": "hossein.shbz@gmail.com",
+    "url": "https://github.com/hk1ll3r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hk1ll3r/UnityVersionDefinesInAssembly.git"
+  }
+}
